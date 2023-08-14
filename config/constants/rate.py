@@ -1,0 +1,1 @@
+RATE_SECONDS = 10
