@@ -1,13 +1,18 @@
 anyio==3.7.1
+<<<<<<< HEAD
 attrs==23.1.0
 certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.2.0
 exceptiongroup==1.1.3
+=======
+certifi==2023.7.22
+>>>>>>> 46d3af9e0e35b28dd77db9961c6a4e3c7fed9ec5
 h11==0.14.0
 httpcore==0.17.3
 httpx==0.24.1
 idna==3.4
+<<<<<<< HEAD
 outcome==1.2.0
 pycparser==2.21
 PySocks==1.7.1
@@ -20,3 +25,7 @@ trio==0.22.2
 trio-websocket==0.10.3
 urllib3==2.0.4
 wsproto==1.2.0
+=======
+python-telegram-bot==20.4
+sniffio==1.3.0
+>>>>>>> 46d3af9e0e35b28dd77db9961c6a4e3c7fed9ec5
